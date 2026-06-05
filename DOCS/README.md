@@ -3,7 +3,8 @@ A 3D printed small Poker Trophy
 
 My project is a 3D printed trophy for Poker players. It is fully 3D printed, 5 cm in height, and 3cm in lenght and depth. It is inspired based on this trophy:
 
-<img width="943" height="1163" alt="image" src="https://github.com/user-attachments/assets/c900aeee-b43e-4b6a-b27c-8098b3647f8b" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/95dae0b9-7191-4f65-b9c3-85a1e9bba17a" />
+
 
 
 I created this project to honor my friend who is a highly invested poker player and has had significant outcomes. He has taught me to persist even after continously failing! This project is an ode to his amazing hobby!
