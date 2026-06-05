@@ -49,4 +49,5 @@ Final Product image:
 
 Zine Image:
 
-<img width="618" height="955" alt="Screenshot 2026-05-23 000007" src="https://github.com/user-attachments/assets/6ba4c16d-ea00-4e8e-92eb-83d826e8854e" />
+<img width="785" height="1202" alt="image" src="https://github.com/user-attachments/assets/7d2f62bd-e436-4a26-96f6-902f5cd5a573" />
+
