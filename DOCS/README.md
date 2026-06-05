@@ -15,8 +15,10 @@ How to use?
 
 <img width="713" height="784" alt="image" src="https://github.com/user-attachments/assets/5506a4b8-872e-4e48-aacd-f2681ab996dd" />
 
-3. Place the PCB in the 3D printed bottom base in the slit as shown:
+3. Place the PCB in the 3D printed bottom base in the slit as shown and as per the schematic and editor:
 
+<img width="1127" height="549" alt="image" src="https://github.com/user-attachments/assets/01824bbd-98e5-4b59-b533-d9a70c74e0e6" />
+<img width="376" height="425" alt="image" src="https://github.com/user-attachments/assets/6f8fbdf0-0e9e-4fe2-8699-6221199a4ab2" />
 <img width="1229" height="723" alt="image" src="https://github.com/user-attachments/assets/3366b738-5753-4afb-964c-0ed05747f299" />
 
 4. Add on the top base and screw on the display joint
